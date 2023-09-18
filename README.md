@@ -2,7 +2,7 @@
 I'm currently learning AI/ML.
 
 
-## 🌐 Socials:
+# 🌐 Socials:
 <a href="https://www.linkedin.com/in/raj-aryan-nayak-b4a75825b/" target="blank"><img alt="Static Badge" src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white">
 </a>
 <a href="https://www.instagram.com/raj_4_real/" target="blank"><img alt="Static Badge" src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white"></a>
